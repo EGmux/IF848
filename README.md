@@ -1,3 +1,3 @@
 # Contents
 
-## Implementation of KNN - knn branch
+## Implementation of KNN and application - knn branch
